@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+.pnp/
+.pnp.js
+
+# Expo directories
+.expo/
+
+# OS-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+.Trashes
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# React Native specific
+*.iml
+*.sublime-project
+*.sublime-workspace
+.vscode/
+.idea/
